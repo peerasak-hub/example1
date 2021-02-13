@@ -3,7 +3,6 @@
 @section('content')
 
     <h1>หมวดหมู่ข่าว</h1>
-    {{$categories}}
 
     <table>
         <thead>
