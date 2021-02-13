@@ -18,7 +18,7 @@ class HomeController extends Controller
     {
         return view('contact');
     }
-    public function hello($name,$age)
+    public function hello($name, $age)
     {
         $data = [
             'name' => $name,
